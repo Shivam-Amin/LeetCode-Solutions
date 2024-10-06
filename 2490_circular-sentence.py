@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/circular-sentence/
 class Solution:
     def isCircularSentence(self, sentence: str) -> bool:
         s = sentence.split(" ")
